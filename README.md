@@ -1,6 +1,6 @@
-This repository is for our paper entitled "On the impact of several regularization techniques on label noise robustness of self-supervised speaker verification systems" currently under review.
+This repository is for our paper entitled "On the impact of several regularization techniques on label noise robustness of self-supervised speaker verification systems" accepted at Interspeech 2024.
 
-Code of our experiments and trained models will be available upon acceptance of the paper.
+Code of our experiments and trained models will be available soon.
 
 # Study of several loss functions
 In Table 1, we performed a large-scale study of 39 metric learning loss functions including all our mentioned families of loss objectives and other widely used losses using CAMSAT-based pseudo-labels.
